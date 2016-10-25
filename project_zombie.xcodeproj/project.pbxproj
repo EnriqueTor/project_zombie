@@ -25,7 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B5E02ACD1DB6949500477B85 /* TreeMapNodes.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = TreeMapNodes.sks; path = ../TreeMapNodes.sks; sourceTree = "<group>"; };
+		B5E02ACD1DB6949500477B85 /* TreeMapNodes.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = TreeMapNodes.sks; sourceTree = "<group>"; };
 		B5E8B68B1DB2DC6200113620 /* project_zombie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = project_zombie.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5E8B68E1DB2DC6200113620 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B5E8B6921DB2DC6200113620 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
@@ -58,6 +58,7 @@
 		B5E8B6821DB2DC6200113620 = {
 			isa = PBXGroup;
 			children = (
+				B5E02ACD1DB6949500477B85 /* TreeMapNodes.sks */,
 				B5E8B68D1DB2DC6200113620 /* project_zombie */,
 				B5E8B68C1DB2DC6200113620 /* Products */,
 			);
@@ -75,7 +76,6 @@
 			isa = PBXGroup;
 			children = (
 				B5E8B6A81DB2DD3900113620 /* Assets.xcassets */,
-				B5E02ACD1DB6949500477B85 /* TreeMapNodes.sks */,
 				B5E8B68E1DB2DC6200113620 /* AppDelegate.swift */,
 				B5E8B6921DB2DC6200113620 /* Actions.sks */,
 				B5E8B6AC1DB2DD5A00113620 /* GroundTiles.sks */,
